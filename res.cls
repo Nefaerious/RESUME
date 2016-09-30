@@ -1,51 +1,6 @@
-% RESUME DOCUMENT STYLE -- Released 23 Nov 1989
-%    for LaTeX version 2.09
-% Copyright (C) 1988,1989 by Michael DeCorte
-
 \typeout{Document Style `res' <26 Sep 89>.}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% res.sty
-%
-% \documentstyle{res}
-%
-% Copyright (c) 1988 by Michael DeCorte
-% Permission to copy all or part of this work is granted, provided
-% that the copies are not made or distributed for resale, and that
-% the copyright notice and this notice are retained.
-%
-% THIS WORK IS PROVIDED ON AN "AS IS" BASIS.  THE AUTHOR PROVIDES NO
-% WARRANTY WHATSOEVER, EITHER EXPRESS OR IMPLIED, REGARDING THE WORK,
-% INCLUDING WARRANTIES WITH RESPECT TO ITS MERCHANTABILITY OR FITNESS
-% FOR ANY PARTICULAR PURPOSE.
-%
-% If you make any improvements, I'd like to hear about them.
-%
-% Michael DeCorte
-% P.O. Box 652
-% Potsdam NY 13676
-% mrd@sun.soe.clarkson.edu
-% mrd@clutx.bitnet
-%
-% Changes for LaTeX2e -- Venkat Krishnamurthy (Aug 7, 2001)
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% You can have multiple style options the legal options ones are:
-%
-%   centered	the name and address are centered at the top of the
-%		page (default)
-%
-%   line	the name is the left with a horizontal line then 
-%		the address to the right
-%
-%   overlapped	the section titles overlap the body text (default)
-%
-%   margin	the section titles are to the left of the body text
-%		
-%   11pt	use 11 point fonts instead of 10 point fonts
-%
-%   12pt	use 12 point fonts instead of 10 point fonts
-%
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   Commands
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
